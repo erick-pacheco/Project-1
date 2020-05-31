@@ -1,5 +1,5 @@
-#Home Improvement by Erick - A Maryland Business
-## Bootstrap Theme - Travel
+# Home Improvement by Erick - A Maryland Business
+### Bootstrap Theme - Travel
 
 
 # Details & Demo
@@ -14,11 +14,11 @@ Using a Bootstap theme, I built a website for my dad's home improvement business
     600+ FontAwesome icons
     Compatible with all modern browsers
 
-#About Me
+# About Me
 
 I am a Web Development Student at Stack - Framingham State University. My goal is to become a full stack engineer. 
 
-#Media
+# Media
 
 [LinkedIn](https://www.linkedin.com/in/erick-p/)
 
